@@ -8,12 +8,10 @@
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=blender,github,vscode,notion)](https://skillicons.dev)
 
-Project Roadmap:
-WIP
+## Project Roadmap:
+(work in progress)
 
-***
-
-
+## Stats:
 ![ObsidioSteel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ObsidioSteel&theme=vue-dark&hide_border=true)
 <br>
 ![ObsidioSteel's Stats](https://github-readme-stats.vercel.app/api?username=ObsidioSteel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
