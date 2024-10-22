@@ -2,11 +2,11 @@
 
 [My portfolio website (WIP)](https://obsidiosteel.github.io/Portfolio-Website/)
 
-Languages:
+## Languages:
 <br>
 [![My Skills](https://skillicons.dev/icons?i=py,java,html)](https://skillicons.dev)
 
-Skills:
+## Skills:
 <br>
 [![My Skills](https://skillicons.dev/icons?i=blender,github,vscode,notion)](https://skillicons.dev)
 
