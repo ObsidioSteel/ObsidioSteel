@@ -3,9 +3,11 @@
 [My portfolio website (WIP)](https://obsidiosteel.github.io/Portfolio-Website/)
 
 Languages:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=py,java,html)](https://skillicons.dev)
 
 Skills:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=blender,github,vscode,notion)](https://skillicons.dev)
 
 Project Roadmap:
