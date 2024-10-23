@@ -18,5 +18,5 @@
 <br>
 ![ObsidioSteel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ObsidioSteel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## Contact Me:
-![ObsidioSteel's LinkedIn](www.linkedin.com/in/shaheedheadley)
+## Contact Me
+[My LinkedIn](https://www.linkedin.com/in/shaheedheadley/)
