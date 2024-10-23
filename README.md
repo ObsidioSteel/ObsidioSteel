@@ -20,3 +20,4 @@
 
 ## Contact Me
 [My LinkedIn](https://www.linkedin.com/in/shaheedheadley/)
+[My Twitter/X](https://x.com/ObsidioSteel)
