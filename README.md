@@ -17,7 +17,8 @@
 </p>
 
 ## Project Roadmap:
-(work in progress)
+2023 Population Visualizer
+League of Legends API Companion App (not sure if its going to be web or not)
 
 ## Github Stats & Streaks:
 ![ObsidioSteel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ObsidioSteel&theme=vue-dark&hide_border=true)
