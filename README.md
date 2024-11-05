@@ -16,8 +16,17 @@
   </a>
 </p>
 
-## Project Roadmap:
-1. League of Legends API Companion App (not sure if its going to be web or not)
+## Project Roadmap (just ideas, not necessarily all completable):
+1. Portfolio Website
+2. 2023 World Population Visualizer 
+3. Custom Personal Discord Server Bot
+4. League of Legends Discord Bot
+5. League of Legends Companion Application (using their API)
+6. Multiplayer FPS Game Prototype
+7. Turn-based Tactics Game Prototype
+8. MOBA Game Prototype
+9. Language Learning AI Chatbot
+10. Language Learning App
 
 ## Github Stats & Streaks:
 ![ObsidioSteel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ObsidioSteel&theme=vue-dark&hide_border=true)
