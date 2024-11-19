@@ -1,5 +1,3 @@
-## Hello! This profile README file is currently under construction :D 🚧
-
 [My portfolio website (WIP)](https://obsidiosteel.github.io/Portfolio-Website/)
 
 ## Languages:
@@ -16,18 +14,13 @@
   </a>
 </p>
 
-## Project Roadmap (just ideas, not necessarily all completable):
+## Project Roadmap (just ideas based on current interests):
 1. Portfolio Website
-2. 2023 World Population Visualizer 
-3. Custom Personal Discord Server Bot
-4. League of Legends Discord Bot
-5. League of Legends Companion Application (using their API)
-6. Multiplayer FPS Game Prototype
-7. Turn-based Tactics Game Prototype
-8. MOBA Game Prototype
-9. Language Learning AI Chatbot
-10. Language Learning App
-
+2. Custom Personal Discord Server Bot
+3. League of Legends Discord Bot
+4. League of Legends Companion Application
+5. Language Learning App
+   
 ## Github Stats & Streaks:
 ![ObsidioSteel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ObsidioSteel&theme=vue-dark&hide_border=true)
 ![ObsidioSteel's Stats](https://github-readme-stats.vercel.app/api?username=ObsidioSteel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
