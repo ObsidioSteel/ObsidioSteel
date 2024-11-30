@@ -14,12 +14,12 @@
   </a>
 </p>
 
-## Project Roadmap (just ideas based on current interests):
-1. Portfolio Website
-2. Custom Personal Discord Server Bot
-3. League of Legends Discord Bot
-4. League of Legends Companion Application
-5. Language Learning App
+## Interests:
+1. Game Development
+2. Software Development
+3. Web Development
+4. Language Learning
+5. League of Legends
    
 ## Github Stats & Streaks:
 ![ObsidioSteel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ObsidioSteel&theme=vue-dark&hide_border=true)
