@@ -15,11 +15,10 @@
 </p>
 
 ## Interests:
-1. Game Development
-2. Software Development
-3. Web Development
-4. Language Learning
-5. League of Legends
+1. Linguistics
+2. Full Stack Development
+3. AI/Machine Learning
+4. Game Development
    
 ## Github Stats & Streaks:
 ![ObsidioSteel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ObsidioSteel&theme=vue-dark&hide_border=true)
