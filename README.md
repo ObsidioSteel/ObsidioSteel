@@ -62,18 +62,27 @@ I also love music, world history, and talking (a lot)!
   <p>[language] = currently learning</p>
 </div>
 
-## Github Stats:
-<a href="github-readme-stats-silk-rho-31.vercel.app">
-  <img height=200 align="center" src="https://github-readme-stats-silk-rho-31.vercel.app/api?username=ObsidioSteel&theme=graywhite&rank_icon=percentile&hide=contribs,issues"/>
-</a>
-<a href="https://github.com/ObsidioSteel">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsidioSteel&layout=pie&theme=graywhite" />
-</a>
+## Coding Productivity Stats:
+<p align="center">
+  <a href="github-readme-stats-silk-rho-31.vercel.app">
+    <img height=auto width=500 src="https://github-readme-stats-silk-rho-31.vercel.app/api?username=ObsidioSteel&theme=graywhite&rank_icon=percentile&hide=contribs,issues"/>
+  </a>
+  <br>
+  <a href="https://github.com/ObsidioSteel">
+    <img height=auto width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsidioSteel&layout=pie&theme=graywhite" />
+  </a>  
+  <br>
+  <a href="https://leetcode.com/u/Obsidio/">
+    <img height=auto width=500 src="https://leetcard.jacoblin.cool/Obsidio?theme=dark&font=PT%20Mono&ext=heatmap" align="center" />
+  </a>
+</p>
 
 ## Contact Me :D
-<a href="https://www.linkedin.com/in/shaheedheadley" target="_blank" rel="noopener noreferrer">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn"/></a>
-<a href="mailto:shaheedheadley@gmail.com"> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"></a> 
-<a href="mailto:shaheedheadley@hotmail.com"> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=outlook"></a> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaheedheadley" target="_blank" rel="noopener noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:shaheedheadley@gmail.com"> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"></a> 
+  <a href="mailto:shaheedheadley@hotmail.com"> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=outlook"></a> 
+</p>
