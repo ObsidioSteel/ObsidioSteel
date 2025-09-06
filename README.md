@@ -64,9 +64,9 @@ I also love music, world history, and talking (a lot)!
 
 ## Coding Productivity Stats:
 <p align="center">
-  <a href="github-readme-stats-silk-rho-31.vercel.app">
-    <img height=auto width=500 src="https://github-readme-stats-silk-rho-31.vercel.app/api?username=ObsidioSteel&theme=graywhite&rank_icon=percentile&hide=contribs,issues"/>
-  </a>
+<!--   <a href="github-readme-stats-silk-rho-31.vercel.app"> -->
+<!--     <img height=auto width=500 src="https://github-readme-stats-silk-rho-31.vercel.app/api?username=ObsidioSteel&theme=graywhite&rank_icon=percentile&hide=contribs,issues"/> -->
+<!--   </a> -->
   <br>
   <a href="https://github.com/ObsidioSteel">
     <img height=auto width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsidioSteel&layout=pie&theme=graywhite" />
