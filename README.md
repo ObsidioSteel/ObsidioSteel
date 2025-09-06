@@ -40,7 +40,7 @@ I also love music, world history, and talking (a lot)!
     </tr>
     <tr>
       <th>C1</th>
-      <td>🏴󠁧󠁢󠁥󠁮󠁧󠁿</td>
+      <td>🇬🇧</td>
     </tr>
     <tr>
       <th>B2</th>
