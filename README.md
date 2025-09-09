@@ -52,11 +52,11 @@ I also love music, world history, and talking (a lot)!
     </tr>
     <tr>
       <th>A2</th>
-      <td>🇨🇵</td>
+      <td>[🇨🇵]</td>
     </tr>
     <tr>
       <th>A1</th>
-      <td>[🇨🇿]</td>
+      <td>[🇩🇪][🇨🇿]</td>
     </tr>
   </table>
   <p>[language] = currently learning</p>
