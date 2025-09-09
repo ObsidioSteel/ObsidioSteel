@@ -72,9 +72,9 @@ I also love music, world history, and talking (a lot)!
     <img height=auto width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsidioSteel&layout=pie&theme=graywhite" />
   </a>  
   <br>
-  <a href="https://leetcode.com/u/Obsidio/">
+<!--   <a href="https://leetcode.com/u/Obsidio/">
     <img height=auto width=500 src="https://leetcard.jacoblin.cool/Obsidio?theme=dark&font=PT%20Mono&ext=heatmap" align="center" />
-  </a>
+  </a> -->
 </p>
 
 ## Contact Me :D
