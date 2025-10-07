@@ -5,7 +5,6 @@ I'm a Computer Science student @ TMU, with passions for:
 - Linguistics (Focused on Phonology/Morphology/Syntax and Langauge Learning)
 - Machine Learning/AI (Data science, neural networks, you know...)
 - Full-stack Development (Specifically the MERN stack!)
-- Game Development (Some experience in Unity; learning Godot)
 
 I also love music, world history, and talking (a lot)!
 
