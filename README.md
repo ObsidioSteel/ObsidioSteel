@@ -1,10 +1,5 @@
-## Hello, I'm Shaheed.
-
-I'm a Computer Science student at Toronto Metropolitan University, with passions for Natural Language Processing and Full-Stack Development. 
-<p>I also enjoy tinkering with C/C++ to learn lower-level programming fundamentals; I would not say I am an expert at it :)</p>
-
+I'm Shaheed, a third-year Computer Science student at Toronto Metropolitan University. I really enjoy studying computational linguistics/NLP, and tend to prefer the MERN stack in regards to full-stack development. Currently learning German.
 ##
-
 <div align="center">
   <h3>Programming Languages, Frameworks, and Libraries</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,bash" alt="Programming Languages" />
