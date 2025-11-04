@@ -4,7 +4,7 @@
   ##
   
   <h3>Programming Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,bash" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,bash" alt="Programming Languages" />
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,django,flask" alt="Frameworks" />
   
   <h3>Tools, Software and Libraries</h3>
