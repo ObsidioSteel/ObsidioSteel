@@ -1,7 +1,12 @@
-Hello, my name is Shaheed Headley, and I have a few interests:
-
-1. Linguistics, both human and computational
-2. Writing, you can see my blog at blog.pokrok.dev
-3. Machine Learning, specializing in NLP but overall enjoys ML
-4. Web Development, moreso the functionality, not the frameworks
-5. Game Development, though I haven't been pursuing it recently
+<p align="center">
+  Third year Computer Science student at Toronto Metropolitan University. 
+</p>
+<p align="center">
+  I primarily study Machine Learning, Linguistics, and Natural Langauge Processing.
+</p> 
+<p align="center">
+  I primarily program in Python, C, and C++, and have some knowledge of JS & SQL.
+</p> 
+<p align="center">
+  Feel free to check out <a href="https://blog.pokrok.dev/">my blog</a>, or email me at shaheedheadley@hotmail.com
+</p>
