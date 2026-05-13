@@ -8,5 +8,5 @@
   I primarily program in Python, C, and C++, and have some knowledge of JS & SQL.
 </p> 
 <p align="center">
-  Feel free to check out <a href="https://blog.pokrok.dev/">my blog</a>, or email me at shaheedheadley@hotmail.com
+  Feel free to check out <a href="https://blog.pokrok.dev/" rel="noreferrer noopener" target="_blank">my blog</a>, or email me at shaheedheadley@hotmail.com
 </p>
