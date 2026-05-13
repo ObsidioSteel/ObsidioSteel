@@ -2,7 +2,7 @@
   Third year Computer Science student at Toronto Metropolitan University. 
 </p>
 <p align="center">
-  I primarily study Machine Learning, Linguistics, and Natural Langauge Processing.
+  I specialize in Machine Learning, Linguistics, and Natural Langauge Processing.
 </p> 
 <p align="center">
   I primarily program in Python, C, and C++, and have some knowledge of JS & SQL.
